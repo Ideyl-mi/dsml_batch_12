@@ -18,3 +18,4 @@ always make sure that the branch u r adding is in the correct branch
 git checkout -b <branch name> = to simultaneously create a new branch and swap to it
 
 git clone git@github.com:Ideyl-mi/dsml_batch_12.git
+heyyyyyyyyy
